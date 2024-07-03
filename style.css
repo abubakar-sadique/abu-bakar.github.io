@@ -1,0 +1,18 @@
+.demo {
+
+    color: rgb(227, 173, 248);
+    text-decoration: none;
+}
+
+.demo1 {
+    color: rgb(17, 61, 126);
+}
+
+i {
+    color: rgb(227, 173, 248);
+    font-size: 20px;
+}
+
+li a:hover {
+    border-bottom: 3px solid rgb(227, 173, 248);
+}
